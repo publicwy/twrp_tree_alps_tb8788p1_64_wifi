@@ -1,0 +1,1 @@
+# twrp_tree_alps_tb8788p1_64_wifi
