@@ -1,5 +1,5 @@
 # twrp_tree_alps_tb8788p1_64_wifi
-It's twrp tree for device alps_tb8788p1_64_wifi
+It's TWRP tree for device alps_tb8788p1_64_wifi (TALIH-PD1).
 
 | Device | TALIH-PD1 |
 | ----------: | --------------------: |
